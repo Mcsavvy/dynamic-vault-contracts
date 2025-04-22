@@ -1,6 +1,6 @@
 # Dynamic Vault - Smart Contracts
 
-![Dynamic Vault Logo](https://via.placeholder.com/800x200?text=Dynamic+Vault)
+![Dynamic Vault Logo](./docs/assets/logo.jpeg)
 
 ## Overview
 

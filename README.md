@@ -267,9 +267,12 @@ To set up an AI-driven price oracle:
 
 | Contract | Network | Address |
 |----------|---------|---------|
-| RWAAssetContract | Pharos Testnet | `0x...` |
-| DynamicPricingAgent | Pharos Testnet | `0x...` |
-| MarketplaceContract | Pharos Testnet | `0x...` |
+| RWAAssetContract | Local Hardhat Node | `0x5FbDB2315678afecb367f032d93F642f64180aa3` |
+| DynamicPricingAgent | Local Hardhat Node | `0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512` |
+| MarketplaceContract | Local Hardhat Node | `0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0` |
+| RWAAssetContract | Pharos Testnet | `0xd61E1Ccf90c293Ec1B02ad398626A3348Ef13A8a` |
+| DynamicPricingAgent | Pharos Testnet | `0x97c82cdCAfcd36362C0C2CE77cC59B5519653deD` |
+| MarketplaceContract | Pharos Testnet | `0x27A756Bf342017B37f3AcBA780995F270deCEb89` |
 
 ## Security
 

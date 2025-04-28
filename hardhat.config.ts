@@ -3,11 +3,8 @@ import "@nomicfoundation/hardhat-toolbox";
 import "dotenv/config";
 
 // Load environment variables
-const PRIVATE_KEY =
-  process.env.PRIVATE_KEY ||
-  "0x0000000000000000000000000000000000000000000000000000000000000000";
-const PHAROS_RPC_URL =
-  process.env.PHAROS_RPC_URL || "https://rpc.testnet.pharosnetwork.xyz";
+const PRIVATE_KEY = process.env.PRIVATE_KEY!;
+const PHAROS_RPC_URL = process.env.PHAROS_RPC_URL!;
 
 const config: HardhatUserConfig = {
   solidity: {
